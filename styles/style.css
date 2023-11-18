@@ -49,13 +49,13 @@ ol {
 }
 
 .result {
-  position: relative;
   display: flex;
   flex-direction: column;
   gap: 17px;
 }
 
 .result__video-container {
+  position: relative;
   inline-size: 711px;
   height: 386px;
 }
